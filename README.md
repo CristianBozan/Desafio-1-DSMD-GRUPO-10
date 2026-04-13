@@ -44,7 +44,7 @@ Aplicativo mobile para consulta de CEP e endereços, desenvolvido com Flutter pa
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/CristianBozan/Desafio-1---Desenvolvimento-de-Sistemas-M-veis-e-Distribu-dos---GRUPO-10
+git clone https://github.com/CristianBozan/Desafio-1-DSMD-GRUPO-10
 cd fast_location
 ```
 
@@ -91,7 +91,7 @@ lib/
         ├── initial/page/            # Splash screen
         ├── home/
         │   ├── model/               # CepModel (ViaCEP)
-        │   ├── repository/          # API + armazenamento local
+        │   ├── repositories/          # API + armazenamento local
         │   ├── service/             # Regras de negócio
         │   ├── controller/          # MobX store
         │   ├── components/          # Widgets da tela home
