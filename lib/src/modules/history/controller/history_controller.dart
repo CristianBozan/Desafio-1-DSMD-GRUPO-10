@@ -1,6 +1,6 @@
 import 'package:mobx/mobx.dart';
 
-import '../../home/repository/cep_local_repository.dart';
+import '../../home/repositories/cep_local_repository.dart';
 
 part 'history_controller.g.dart';
 

@@ -1,6 +1,6 @@
 import '../model/cep_model.dart';
-import '../repository/cep_local_repository.dart';
-import '../repository/cep_repository.dart';
+import '../repositories/cep_local_repository.dart';
+import '../repositories/cep_repository.dart';
 
 /// Camada de serviço — implementa as regras de negócio da consulta de CEP.
 class CepService {
